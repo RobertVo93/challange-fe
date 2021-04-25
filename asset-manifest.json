@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/challange-fe/static/css/main.bec382c7.chunk.css",
+    "main.js": "/challange-fe/static/js/main.10854877.chunk.js",
+    "main.js.map": "/challange-fe/static/js/main.10854877.chunk.js.map",
+    "runtime-main.js": "/challange-fe/static/js/runtime-main.488a197b.js",
+    "runtime-main.js.map": "/challange-fe/static/js/runtime-main.488a197b.js.map",
+    "static/js/2.b66f3378.chunk.js": "/challange-fe/static/js/2.b66f3378.chunk.js",
+    "static/js/2.b66f3378.chunk.js.map": "/challange-fe/static/js/2.b66f3378.chunk.js.map",
+    "static/js/3.32ebfd42.chunk.js": "/challange-fe/static/js/3.32ebfd42.chunk.js",
+    "static/js/3.32ebfd42.chunk.js.map": "/challange-fe/static/js/3.32ebfd42.chunk.js.map",
+    "index.html": "/challange-fe/index.html",
+    "static/css/main.bec382c7.chunk.css.map": "/challange-fe/static/css/main.bec382c7.chunk.css.map",
+    "static/js/2.b66f3378.chunk.js.LICENSE.txt": "/challange-fe/static/js/2.b66f3378.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488a197b.js",
+    "static/js/2.b66f3378.chunk.js",
+    "static/css/main.bec382c7.chunk.css",
+    "static/js/main.10854877.chunk.js"
+  ]
+}
